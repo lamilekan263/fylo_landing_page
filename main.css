@@ -33,7 +33,7 @@ nav{
 }
 .nav-bar-flex img{
     width:100%;
-    background-color: red;g;
+    margin:0;
 }
 li{
     margin-left:11px;
@@ -43,7 +43,7 @@ li{
 }
 .nav-bar-flex ul{
     display:flex;
-    
+    margin-top:10px;
 }
 .showcase-section{
     margin-top: 20px;
